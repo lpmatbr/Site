@@ -1,0 +1,12 @@
+//include 'math'
+
+//if (!(2 > 1 || 2 < 1) && false) {
+//	println 'passou'
+//}
+
+//g = input 'Digite quantas iterações terá: '
+h = 5
+for x in range (h, h) {
+	
+	println ('----------x: ' . x . '------------')
+}
